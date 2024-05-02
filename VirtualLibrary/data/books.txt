@@ -1,0 +1,30 @@
+The Catcher in the Rye;J.D. Salinger;0316769487;1951;AVAILABLE
+To Kill a Mockingbird;Harper Lee;0446310786;1960;RENTED
+1984;George Orwell;0451524934;1949;RENTED
+The Great Gatsby;F. Scott Fitzgerald;0743273567;1925;RENTED
+Pride and Prejudice;Jane Austen;0486284735;1813;AVAILABLE
+The Hobbit;J.R.R. Tolkien;054792822X;1937;AVAILABLE
+The Lord of the Rings;J.R.R. Tolkien;0544003411;1954;AVAILABLE
+The Hitchhiker's Guide to the Galaxy;Douglas Adams;0345391802;1979;AVAILABLE
+Animal Farm;George Orwell;0451526341;1945;AVAILABLE
+Brave New World;Aldous Huxley;0060850523;1932;AVAILABLE
+The Adventures of Huckleberry Finn;Mark Twain;0486280616;1884;AVAILABLE
+The Diary of a Young Girl;Anne Frank;0553577123;1947;AVAILABLE
+The Picture of Dorian Gray;Oscar Wilde;0486278079;1890;AVAILABLE
+Wuthering Heights;Emily Bronte;0141439556;1847;AVAILABLE
+The Count of Monte Cristo;Alexandre Dumas;0140449264;1844;AVAILABLE
+Moby-Dick;Herman Melville;0142000086;1851;AVAILABLE
+One Hundred Years of Solitude;Gabriel Garcia Marquez;0060883286;1967;AVAILABLE
+The Odyssey;Homer;0140268863;-725;AVAILABLE
+The Divine Comedy;Dante Alighieri;0451208633;1320;AVAILABLE
+Crime and Punishment;Fyodor Dostoevsky;0140449132;1866;AVAILABLE
+Anna Karenina;Leo Tolstoy;0143035002;1877;AVAILABLE
+Les Miserables;Victor Hugo;0140444300;1862;AVAILABLE
+The Grapes of Wrath;John Steinbeck;0143039431;1939;AVAILABLE
+Siddhartha;Hermann Hesse;0553208845;1922;AVAILABLE
+The Sun Also Rises;Ernest Hemingway;0684800713;1926;AVAILABLE
+Heart of Darkness;Joseph Conrad;0140281637;1899;AVAILABLE
+The Sound and the Fury;William Faulkner;0679732241;1929;AVAILABLE
+A Tale of Two Cities;Charles Dickens;0141439602;1859;AVAILABLE
+Jane Eyre;Charlotte Bronte;0141441143;1847;AVAILABLE
+The Brothers Karamazov;Fyodor Dostoevsky;0374528373;1880;AVAILABLE
